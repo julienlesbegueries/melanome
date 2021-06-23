@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT dermato-app.ipynb --allow-websocket-origin=dermato-app.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT dermato-app.ipynb --allow-websocket-origin=melanome.herokuapp.com
