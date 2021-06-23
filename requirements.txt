@@ -4,6 +4,6 @@ keras
 panel
 jupyter
 bokeh
-jupyterhub=
+jupyterhub
 jupyterlab-pygments
 jupyterlab-widgets
