@@ -3,4 +3,7 @@ pandas
 keras
 panel
 jupyter
-
+bokeh
+jupyterhub=
+jupyterlab-pygments
+jupyterlab-widgets
