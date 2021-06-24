@@ -7,3 +7,4 @@ bokeh
 jupyterhub
 jupyterlab-pygments
 jupyterlab-widgets
+tensorflow
