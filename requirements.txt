@@ -4,4 +4,4 @@ keras
 panel
 jupyter
 bokeh
-tensorflow
+tensorflow-cpu
